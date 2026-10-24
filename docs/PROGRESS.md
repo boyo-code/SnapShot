@@ -17,7 +17,7 @@ A booking, gallery and admin app for my photobooth business. I'm building it to 
 - AWS: S3 (photos), App Runner or ECS (hosting), RDS (database), IAM (permissions)
 
 ## Stages
-- [ ] 1. Git and GitHub foundations: first commit, branches, pull requests, branch protection, issues
+- [x] 1. Git and GitHub foundations: first commit, branches, pull requests, branch protection, issues
 - [ ] 2. Design: user stories, data model (bookings, packages, galleries, photos)
 - [ ] 3. Core backend: booking API, validation, admin login, tests
 - [ ] 4. CI with GitHub Actions: lint and test on every pull request
